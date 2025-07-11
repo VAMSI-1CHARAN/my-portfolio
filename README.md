@@ -30,12 +30,6 @@ Welcome to my personal portfolio — a showcase of my journey through data, code
 
 ---
 
-## 📸 Screenshots
-
-> *(You can add screenshots of your homepage, project cards, dashboard UI, etc. here.)*
-
----
-
 ## 🔗 Connect With Me
 
 - 🌐 Website: https://vamsi-1charan.github.io/my-portfolio/
